@@ -1,0 +1,9 @@
+@import "../node_modules/bootstrap-icons/font/bootstrap-icons.css";
+
+.height-400 {
+    height: 400px !important;
+}
+
+.height-500 {
+    height: 500px !important;
+}
