@@ -1,4 +1,4 @@
-@import "../node_modules/bootstrap-icons/font/bootstrap-icons.css";
+@import "./css/font/bootstrap-icons.css";
 
 .height-400 {
     height: 400px !important;
